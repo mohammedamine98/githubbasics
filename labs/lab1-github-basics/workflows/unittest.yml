@@ -1,4 +1,5 @@
 name: Python Unittests
+run-name: Unittest
 
 on:
   push:
