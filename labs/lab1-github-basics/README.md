@@ -2,7 +2,7 @@
 
 ##  Learning Objectives
 
-- Use Git for version control
+- Use Git for version control===
 - Write and run unit tests (pytest and unittest)
 - Set up GitHub Actions for automated testing
 

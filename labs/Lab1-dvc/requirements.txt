@@ -1,0 +1,6 @@
+# DVC for local data versioning
+dvc==3.21.1
+
+# Data processing (optional)
+pandas==2.1.0
+numpy==1.26.0
